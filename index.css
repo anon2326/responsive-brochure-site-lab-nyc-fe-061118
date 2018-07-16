@@ -35,3 +35,8 @@ h3{
 .paragraph{
   width:800px;
 }
+
+.image{
+  width: 250px;
+  margin:auto;
+}
