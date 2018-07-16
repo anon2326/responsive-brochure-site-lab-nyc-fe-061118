@@ -3,7 +3,7 @@
   nav a{
     clear:left;
   }
-  main div{
+  .paragraph{
     width:80%;
   }
 }
