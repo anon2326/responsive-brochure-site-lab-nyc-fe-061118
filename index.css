@@ -2,8 +2,6 @@
   display: flex;
   flex-flow: row wrap;
   width:800px;
-  height:200px;
-  justify-content: space-between;
 }
 
 .floatymcfloat{
